@@ -1,3 +1,16 @@
+Company : CODTECH IT SOLUTIONS
+
+Name : Reddy Akkamma Chandana
+
+Intern ID : CT06DG1234
+
+Domain : Data Science
+
+Duration : 6 Weeks
+
+Mentor : Neela Santosh
+
+
 Task 4: Business Optimization using Linear Programming (PuLP)
 Objective:
 Solve a real-world business allocation problem using optimization.
